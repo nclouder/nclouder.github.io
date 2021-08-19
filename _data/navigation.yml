@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Master Pages"
+  - title: "마스터"
     url: "https://m.blog.naver.com/n_cloudplatform/222463915756" 
-  # - title: "About"
+  - title: "스터디그룹"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+  - title: "블로그"
   #   url: /year-archive/
-  # - title: "Sample Collections"
+  - title: "slack"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
