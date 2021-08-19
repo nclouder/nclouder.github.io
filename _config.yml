@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "네이버 클라우드 플랫폼 유저 그룹"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "네이버 클라우드 플랫폼 유저 그룹"
 description              : "네이버 클라우드 플랫폼 유저 그룹"
 url                      : "https://nclouder.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "네이버 클라우드 플랫폼 유저 그룹"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "네이버 클라우드 플랫폼 유저 그룹"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
