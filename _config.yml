@@ -100,13 +100,13 @@ analytics:
 
 
 # Site Author
-author: false
-  name             : "네이버 클라우드 플랫폼 유저 그룹"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "네이버 클라우드 플랫폼 유저 그룹"
-  location         : "Korea"
-  email            :
-  links:
+#author:
+#  name             : "네이버 클라우드 플랫폼 유저 그룹"
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : "네이버 클라우드 플랫폼 유저 그룹"
+#  location         : "Korea"
+#  email            :
+#  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
